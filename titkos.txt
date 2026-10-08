@@ -1,0 +1,2 @@
+jelszo = TitkosJelszo123
+* .pyc
